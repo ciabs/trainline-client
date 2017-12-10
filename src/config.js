@@ -1,5 +1,5 @@
 const config = {
-  apiUrl: 'http://localhost:8080',
+  apiUrl: process.env.NODE_ENV === 'development' ? 'http://localhost:8080' : 'https://still-caverns-47909.herokuapp.com',
   infoType: {
     TRAINS_INFO: 'trainsInfo',
     TRAIN_DETAILS: 'trainDetails'
