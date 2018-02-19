@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StopDetail should have a valid snapshot 1`] = `
+<div
+  className="sc-bdVaJa hUdZHX"
+>
+  <div
+    className="sc-bwzfXH bsEiWU"
+  >
+    20:20
+  </div>
+  <div
+    className="sc-htpNat bNmWsn"
+  >
+    <div
+      className="sc-bxivhb dLUKcv"
+    />
+    <div
+      className="sc-bZQynM boMXtV"
+    >
+      London
+    </div>
+    <div
+      className="sc-EHOje hSaKJH"
+    >
+      On time
+    </div>
+  </div>
+</div>
+`;

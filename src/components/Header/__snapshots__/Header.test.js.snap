@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should have a valid snapshot 1`] = `
+<header
+  className="sc-bdVaJa hOPUPK"
+>
+  <div
+    className="sc-bwzfXH qdJsB"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <img
+        alt="Kiwi standing on oval"
+        className="sc-htpNat lovHhp"
+        src="logo.svg"
+      />
+    </a>
+  </div>
+</header>
+`;
